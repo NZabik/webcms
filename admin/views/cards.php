@@ -181,6 +181,10 @@ require_once "../includes/head2.php" ?>
 
             </div>
             <!-- End of Main Content -->
-
+            <script>
+        let h1s = document.querySelector("h1").innerText;
+        console.log(h1s);
+        document.title = h1s;
+    </script>
     <?php
 require_once "../includes/footer2.php" ?>
