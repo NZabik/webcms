@@ -1,6 +1,6 @@
 <?php
 require_once "../includes/head2.php" ?>
-
+<title>404</title>
                 <!-- Begin Page Content -->
                 <div class="container-fluid">
 
@@ -17,6 +17,6 @@ require_once "../includes/head2.php" ?>
 
             </div>
             <!-- End of Main Content -->
-
+            
     <?php
 require_once "../includes/footer2.php" ?>
